@@ -4,3 +4,8 @@ Calculadora fake 100% no real
 ### Funcion Suma
 
 ---
+---
+
+### Funcion resta
+
+---
