@@ -25,3 +25,5 @@ Calculadora fake
 
 ---
 ### Notas: las funciones son fakes
+
+- texto para el pull
