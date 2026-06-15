@@ -25,3 +25,4 @@ Calculadora fake
 
 ---
 ### Notas: las funciones son fakes
+Reset y luego revert
